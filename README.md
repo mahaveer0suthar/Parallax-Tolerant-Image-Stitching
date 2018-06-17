@@ -1,2 +1,1 @@
-# CG_Detector
-Deep Learning project for Detecting CG Images from Real Images
+#codes for Parallax-Tolerant Image Stitching Based on Robust Elastic Warping
