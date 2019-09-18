@@ -8,6 +8,6 @@ Image stitching aims at generating high-quality panoramas with the lowest comput
 
 Completed on: May 2017
 
-![alt text](http://mahaveer0suthar.me/img/portfolio/p-5.jpg)
+![alt text](https://github.com/mahaveer0suthar/Parallax-Tolerant-Image-Stitching/blob/master/output/1_o.png?raw=true)
 
 
